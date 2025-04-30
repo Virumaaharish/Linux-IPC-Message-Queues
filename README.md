@@ -1,6 +1,8 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
+Name: M Virumaa harish
 
+Ref: 212223230246
 # AIM:
 To write a C program that receives a message from message queue and display them
 
